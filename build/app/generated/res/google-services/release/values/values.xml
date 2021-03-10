@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">930134882888-3rg03gh7obvi419p0vnu203j1qkfqj2k.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">930134882888</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5pckZnXR48d69gC8qN3b6U9NbUboVYPM</string>
+    <string name="google_app_id" translatable="false">1:930134882888:android:07e09ef93792890e7bb67d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5pckZnXR48d69gC8qN3b6U9NbUboVYPM</string>
+    <string name="google_storage_bucket" translatable="false">newsupdate-72f83.appspot.com</string>
+    <string name="project_id" translatable="false">newsupdate-72f83</string>
+</resources>
